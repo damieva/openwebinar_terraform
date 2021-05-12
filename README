@@ -1,0 +1,4 @@
+Notas sobre TERRAFORM:
+    Provider: modulos en Ansible. Vienen separados del propio core de la aplicación, luego necesitamos descargarnoslos especificamente y se hace con 'terraform init'.
+
+    
